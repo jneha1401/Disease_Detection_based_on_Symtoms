@@ -9,3 +9,5 @@ Objectives:
 Build a supervised learning model that predicts diseases based on input symptoms.
 Compare accuracy, precision, recall, and F1-score between SVM and Naive Bayes.
 Identify the algorithm best suited for multi-class medical diagnosis with limited and overlapping symptom data.
+<br>
+dataset: https://drive.google.com/file/d/17SloCM3-w4QDKmH-tKFntwSxQ7zWOb2L/view?usp=drive_link
